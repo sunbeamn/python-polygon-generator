@@ -5,8 +5,6 @@ drawing_board.bgcolor("light blue")
 drawing_board.title("Turtle Python")
 
 turtle_instance= turtle.Turtle()
-turtle_instance_2= turtle.Turtle()
-turtle_instance_3= turtle.Turtle()
 
 while True:
     try:
